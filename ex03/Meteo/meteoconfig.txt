@@ -1,0 +1,1 @@
+0 8 * * 1-5 curl wttr.in/Batman > /Users/admin/Documents/Day03/ex03/Meteo/meteoOfTheDay.txt
